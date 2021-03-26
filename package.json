@@ -1,0 +1,22 @@
+{
+  "name": "api-unique-idea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leleocastro/api-unique-idea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leleocastro/api-unique-idea/issues"
+  },
+  "homepage": "https://github.com/Leleocastro/api-unique-idea#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
